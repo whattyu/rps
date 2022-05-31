@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "6.3.4",
+    "framer-motion": "6.3.6",
     "react": "18.1.0",
     "react-confetti-explosion": "1.0.3",
     "react-dom": "18.1.0"
